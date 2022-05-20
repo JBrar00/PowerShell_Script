@@ -1,1 +1,2 @@
 get-date
+$PSVersionTable
